@@ -1,2 +1,2 @@
 # assignments
-files needed to complete assignments for classes. 
+projects i have worked on for classes. 
